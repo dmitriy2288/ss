@@ -2,7 +2,7 @@
   text-align: center;
 }
 
-.ss {
+.ss a {
   display: flex;
   justify-content: space-between;
 }
