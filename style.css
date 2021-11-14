@@ -10,6 +10,8 @@ h1 {
 }
 
 header {
+    top: 0px;
     background-image: linear-gradient(to right, blue, orange, blue);
     width: 100%;
+    header: 50px;
 }
