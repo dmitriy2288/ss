@@ -15,3 +15,7 @@ header {
     width: 100%;
     header: 50px;
 }
+
+.silki {
+    display: flex;
+}
