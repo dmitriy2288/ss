@@ -1,8 +1,14 @@
-.h1 {
-  text-align: center;
+body {
+    font-family: sans-serif;
+    background-color: green;
+    width: 100%;
 }
 
-.ss a {
-  display: flex;
-  justify-content: space-between;
+h1 {
+    text-align: center;
+}
+
+header {
+    background-image: linear-gradient(to right, blue, orange, blue);
+    width: 100%;
 }
